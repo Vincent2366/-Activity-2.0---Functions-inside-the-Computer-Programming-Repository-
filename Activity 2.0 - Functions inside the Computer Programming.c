@@ -9,7 +9,7 @@ int main()
     int sum;
     float average;
 
-    printf("Input 5 grades: ");
+    printf("Input 5 grades separated with spaces: ");
     scanf("%d %d %d %d %d", &grade1, &grade2, &grade3, &grade4, &grade5);
 
 
