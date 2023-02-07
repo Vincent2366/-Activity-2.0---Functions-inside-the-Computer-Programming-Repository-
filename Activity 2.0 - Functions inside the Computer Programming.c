@@ -30,6 +30,6 @@ int thisisgrades(int grade1, int grade2, int grade3, int grade4, int grade5)
 
 float thisisaverage(int sum)
 {
-    float average = (float)sum / 5;
+    float average = sum / 5;
     return average;
 }
